@@ -1,0 +1,13 @@
+tensorflow>=2.14
+tensorflow-hub
+librosa
+soundfile
+scikit-learn
+xgboost
+joblib
+sounddevice
+tqdm
+matplotlib
+seaborn
+numpy
+pandas
